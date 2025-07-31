@@ -5,6 +5,8 @@ An interactive Power BI dashboard designed to empower sales managers and represe
 behavior, and budget adherence. This solution transforms raw sales data into actionable visualizations, facilitating data-driven decision-making and improved sales follow-up.
 
 **The Business Challenge**
+
+
 Previously, sales reporting relied on static reports, making it difficult to gain dynamic insights into sales performance. Sales managers needed a more visual and interactive 
 way to understand:
 
@@ -32,6 +34,7 @@ visualize it as per the user requirements.
 **Dashboard Screenshots & Interaction**
 
 Page 1: Sales Overview
+
 This page provides an executive summary of sales performance, highlighting overall revenue, budget adherence, top product categories, best-performing sales reps, and leading
 products.
 <img width="977" height="560" alt="image" src="https://github.com/user-attachments/assets/c8703de9-5f66-4816-b1a3-0393d43d09ce" />
