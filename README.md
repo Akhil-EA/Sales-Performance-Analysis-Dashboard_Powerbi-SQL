@@ -1,7 +1,7 @@
 **Sales-Performance-Analysis-Dashboard_Powerbi-SQL**
 
 
-An interactive Power BI dashboard designed to empower sales managers and representatives with comprehensive insights into internet sales performance, product trends, customer 
+An interactive Power BI dashboard designed to empower sales managers and representatives with comprehensive insights into sales performance, product trends, customer 
 behavior, and budget adherence. This solution transforms raw sales data into actionable visualizations, facilitating data-driven decision-making and improved sales follow-up.
 
 **The Business Challenge**
