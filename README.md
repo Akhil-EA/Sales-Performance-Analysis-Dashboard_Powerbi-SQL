@@ -44,3 +44,6 @@ their top-performing customers and track personal sales trends . Additionally, i
 demographics and locations, supporting targeted follow-up strategies.
 
 <img width="972" height="555" alt="image" src="https://github.com/user-attachments/assets/48713eb2-bbed-4d2e-8f1d-a18b49b6fbbc" />
+
+Data Model
+<img width="956" height="642" alt="image" src="https://github.com/user-attachments/assets/2f7cd5a8-b362-4aa6-aa4d-ac3c6a86ff10" />
